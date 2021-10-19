@@ -1,5 +1,5 @@
 #include "raylib.h"
-#include "Screens.h"
+#include "Screen.h"
 
 void menuScreen()
 {
